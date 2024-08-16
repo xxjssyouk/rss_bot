@@ -13,15 +13,15 @@
       "url": "https://coolshell.cn/feed"
     },
     {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
+      "title": "虎嗅网",
+      "url": "https://rss.huxiu.com/"
     },
     {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
+      "title": "极客公园",
+      "url": "http://www.geekpark.net/rss"
     },
     {
-      "title": "Airing 的小屋",
+      "title": "今日头条",
       "url": "https://me.ursb.me/feed"
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
+      "url": "https://rsshub.app/thepaper/featured"
     },
     {
       "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
+      "url": "https://view.news.qq.com/index2010/zhuanti/ztrss.xml"
     },
     {
       "title": "Product Hunt",
-      "url": "https://www.producthunt.com/feed"
+      "url": "https://www.36kr.com/feed/"
     },
     {
       "title": "I'm TualatriX",
-      "url": "https://imtx.me/feed/latest/"
+      "url": "https://news.ifeng.com/rss/index.xml"
     },
     {
       "title": "贤民的比特回忆",
-      "url": "https://www.xianmin.org/index.xml"
+      "url": "https://rss.aishort.top/?type=guokr"
     },
     {
       "title": "茶歇驿站",
-      "url": "https://maiyang.me/index.xml"
+      "url": "https://rss.aishort.top/?type=guokr"
     }
   ]
 }
