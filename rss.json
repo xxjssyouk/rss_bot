@@ -12,29 +12,80 @@
       "title": "xxjssyouk",
       "url": "https://sspai.com/feed"
     },
-   {
-      "title": "myogg",
+    {
+      "title": "美团技术团队",
       "url": "https://tech.meituan.com/feed"
     },
-     {
-      "title": "myogg",
+    {
+      "title": "V2EX",
       "url": "https://v2ex.com/index.xml"
     },
     {
-      "title": "myogg",
+      "title": "酷壳",
       "url": "http://coolshell.cn/feed"
     },
-     {
-       {
-      "title": "myogg",
+    {
+      "title": "联合早报-中国实时",
       "url": "https://plink.anyfeeder.com/zaobao/realtime/china"
     },
-     {
-       {
-      "title": "myogg",
+    {
+      "title": "ONE一个",
       "url": "https://rsshub.app/one"
     },
-     {
+    {
+      "title": "小众软件",
+      "url": "http://feed.appinn.com/"
+    },
+    {
+      "title": "抽屉热榜",
+      "url": "https://rsshub.app/chouti/top/168"
+    },
+    {
+      "title": "左岸读书",
+      "url": "http://www.zreading.cn/feed"
+    },
+    {
+      "title": "虎嗅网",
+      "url": "https://www.huxiu.com/rss/0.xml"
+    },
+    {
+      "title": "酷安图文",
+      "url": "https://rsshub.app/coolapk/tuwen-xinxian"
+    },
+    {
+      "title": "程序员的喵",
+      "url": "https://catcoding.me/atom.xml"
+    },
+    {
+      "title": "微博热搜",
+      "url": "https://rsshub.app/weibo/search/hot"
+    },
+    {
+      "title": "MiaoTony's Blog",
+      "url": "https://miaotony.xyz/atom.xml"
+    },
+    {
+      "title": "开源中国项目新闻",
+      "url": "https://rsshub.app/oschina/news/project"
+    },
+    {
+      "title": "每日一文",
+      "url": "http://node2.feed43.com/mryw.xml"
+    },
+    {
+      "title": "V2EX",
+      "url": "https://v2ex.com/index.xml"
+    },
+    {
+      "title": "掘金专栏",
+      "url": "https://rsshub.app/juejin/posts/3051900006845944/"
+    },
+    {
+      "title": "iDaily今日全球新闻",
+      "url": "https://plink.anyfeeder.com/idaily/today"
+    }
+  ]
+}     {
        {
       "title": "myogg",
       "url": "http://feed.appinn.com/"
